@@ -1,6 +1,6 @@
 <?php
 /**
- * The main template file
+ * The main template file test
  */
 get_header(); ?>
 <div class="container foodrecipes-container-recipes foodrecipes-main-template">
