@@ -1,0 +1,13 @@
+/*
+Theme Name: My Food Recipes
+Template: food-recipes
+*/
+
+@import url(./../food-recipes/style.css);
+
+div.col-md-6.no-padding.food-clear
+{
+    width : 850px;
+    
+    
+}
